@@ -1,7 +1,7 @@
 # IfElseJAVA
 Estrutura de Condição IF/ELSE
 
-sse código Java é um exemplo simples de como usar uma estrutura condicional if-else para classificar a idade de uma pessoa em diferentes categorias (criança, adolescente, adulto e idoso). 
+Esse código Java é um exemplo simples de como usar uma estrutura condicional if-else para classificar a idade de uma pessoa em diferentes categorias (criança, adolescente, adulto e idoso). 
 Declaração da classe Main:
 
     A classe Main contém o método principal (main), que é o ponto de entrada para a execução de programas Java.
